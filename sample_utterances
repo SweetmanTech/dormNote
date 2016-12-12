@@ -1,0 +1,4 @@
+SetNoteIntent {First} is going to {Place}
+SetNoteIntent {First} is going to the {Place}
+SetNoteIntent {First} will be at {Place}
+SetNoteIntent {First} will be at the {Place}
